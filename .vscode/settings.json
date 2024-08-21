@@ -1,0 +1,4 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "apache-activemq-5.16.4-bin/apache-activemq-5.16.4/examples/openwire/csharp/ActiveMQExamples/ActiveMQExamples.sln"
+}
